@@ -23,6 +23,7 @@
 
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+
 <br />
 <br />
 <br />
@@ -57,6 +58,9 @@
 [<img align="left" alt="Cloud Engineer" width="100px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13644961" />](https://www.credential.net/6c338192-50b1-4d29-a7a1-2b0a8bbebcf4)
 
 [<img align="left" alt="Cloud Architect" width="100px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13714442" />](https://www.credential.net/7b77f4b1-433e-4307-b92c-cbb8276a78a8)
+
+<br/><br/>
+
 
 <br />
 <br />
