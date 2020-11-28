@@ -34,8 +34,6 @@
 
 ### Certifications
 
-<br />
-<br />
 
 [<img align="left" alt="Solutions Architect" width="100px" src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" />](https://www.youracclaim.com/badges/910ac811-1a92-4e44-b0aa-153c45e00187/public_url)
 
