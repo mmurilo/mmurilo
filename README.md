@@ -41,14 +41,14 @@
 
 [<img align="left" alt="Security-Specialty" width="100px" src="https://images.youracclaim.com/size/680x680/images/a8f6dbdb-636e-49a4-8d4d-e8fad8d53fa5/AWS-Security-Specialty.png" />](https://www.youracclaim.com/badges/5040f5bc-2fab-4753-ba52-79bb8b1d858b/public_url)
 
-
-<br />
-
-
 [<img align="left" alt="Cloud Engineer" width="100px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13644961" />](https://www.credential.net/6c338192-50b1-4d29-a7a1-2b0a8bbebcf4)
 
 [<img align="left" alt="Cloud Architect" width="100px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13714442" />](https://www.credential.net/7b77f4b1-433e-4307-b92c-cbb8276a78a8)
 
+
+<br />
+<br />
+<br />
 
 ---
 
