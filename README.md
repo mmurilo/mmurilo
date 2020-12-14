@@ -35,15 +35,15 @@
 ### Certifications
 
 
-[<img align="left" alt="Solutions Architect" width="100px" src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" />](https://www.youracclaim.com/badges/910ac811-1a92-4e44-b0aa-153c45e00187/public_url)
+[<img align="left" alt="Solutions Architect" width="80px" src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" />](https://www.youracclaim.com/badges/910ac811-1a92-4e44-b0aa-153c45e00187/public_url)
 
-[<img align="left" alt="Advanced Network" width="100px" src="https://images.youracclaim.com/size/680x680/images/d8ca0c52-8f45-4bf3-87a1-de6455b41bfc/AWS-AdvNetworking-Specialty.png" />](https://www.youracclaim.com/badges/7f49e7e3-299c-4077-a5d3-eab01e2d8900/public_url)
+[<img align="left" alt="Advanced Network" width="80px" src="https://images.youracclaim.com/size/680x680/images/d16e8d20-a603-4ce7-94f0-9dc85e7429ba/AWS-AdvNetworking-Specialty-2020.png" />](https://www.youracclaim.com/badges/7f49e7e3-299c-4077-a5d3-eab01e2d8900/public_url)
 
-[<img align="left" alt="Security-Specialty" width="100px" src="https://images.youracclaim.com/size/680x680/images/a8f6dbdb-636e-49a4-8d4d-e8fad8d53fa5/AWS-Security-Specialty.png" />](https://www.youracclaim.com/badges/5040f5bc-2fab-4753-ba52-79bb8b1d858b/public_url)
+[<img align="left" alt="Security-Specialty" width="80px" src="https://images.youracclaim.com/size/680x680/images/a8f6dbdb-636e-49a4-8d4d-e8fad8d53fa5/AWS-Security-Specialty.png" />](https://www.youracclaim.com/badges/5040f5bc-2fab-4753-ba52-79bb8b1d858b/public_url)
 
-[<img align="left" alt="Cloud Engineer" width="100px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13644961" />](https://www.credential.net/6c338192-50b1-4d29-a7a1-2b0a8bbebcf4)
+[<img align="left" alt="Cloud Engineer" width="80px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13644961" />](https://www.credential.net/6c338192-50b1-4d29-a7a1-2b0a8bbebcf4)
 
-[<img align="left" alt="Cloud Architect" width="100px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13714442" />](https://www.credential.net/7b77f4b1-433e-4307-b92c-cbb8276a78a8)
+[<img align="left" alt="Cloud Architect" width="80px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13714442" />](https://www.credential.net/7b77f4b1-433e-4307-b92c-cbb8276a78a8)
 
 
 <br />
