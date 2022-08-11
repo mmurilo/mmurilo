@@ -39,7 +39,7 @@
 
 [<img align="left" alt="Security-Specialty" width="100px" src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" />](https://www.credly.com/badges/564be69c-ec61-414a-98c6-d4b5e531abec)
 
-[<img align="left" alt="Cloud Architect" width="100px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13714442" />](https://www.credential.net/7b77f4b1-433e-4307-b92c-cbb8276a78a8)
+[<img align="left" alt="Cloud Architect" width="100px" src="https://templates.images.credential.net/16590181582433100721069374350922.png" />](https://www.credential.net/7b77f4b1-433e-4307-b92c-cbb8276a78a8)
 
 <!--
 [<img align="left" alt="Cloud Engineer" width="80px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13644961" />](https://www.credential.net/6c338192-50b1-4d29-a7a1-2b0a8bbebcf4)
