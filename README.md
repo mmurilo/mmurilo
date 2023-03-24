@@ -54,6 +54,15 @@
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmurilo)]
+
+<br />
+<br />
+
+---
+
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="mmurilo | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
