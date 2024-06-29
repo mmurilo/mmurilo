@@ -34,6 +34,7 @@
 
 ### Certifications
 
+[<img align="left" alt="Certified Kubernetes Administrator (CKA)" width="100px" src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" />](https://www.credly.com/badges/4addba1b-a003-4df3-99d2-58130bb1332b))
 
 [<img align="left" alt="Solutions Architect" width="100px" src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" />](https://www.credly.com/badges/2bbfb5b8-9296-44ba-9bcb-ac76a457d660)
 
